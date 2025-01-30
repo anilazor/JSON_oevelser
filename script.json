@@ -1,0 +1,15 @@
+{
+  "navne": {
+    "fornavn": "Rosalina",
+    "efternavn": "Frey"
+  },
+  "alder": 24,
+  "studerende": true,
+  "interesser": ["Musik", "Design", "Katte"],
+  "adresse": {
+    "vej": "Hans Knudsens Plads 1",
+    "by": "København Ø",
+    "postnummer": 2100
+  },
+  "fødselsdato": "2000-20-10"
+}
